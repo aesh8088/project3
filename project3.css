@@ -46,6 +46,33 @@
 }
 
 
+@media screen and (max-width:800px) {
+    .navbar h2  {font-size:30px;
+    }
+      
+  }
+  
+  @media screen and (max-width:400px) {
+      .navbar h2  {font-size:15px;
+      }
+        
+    }
+  
+    @media screen and (max-width:700px) {
+      .menu ul  {display: none;}
+      
+        
+    }
+  
+    @media screen and (max-width:290px) {
+      .navbar h2  {
+          padding-left: 30px;
+      }
+      
+        
+    }
+
+
 
 
 
