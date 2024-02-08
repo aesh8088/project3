@@ -1,0 +1,51 @@
+
+.navbar h2{
+    font-size: 40px;
+    padding-left: 70px;
+}
+
+.navbar h2 span{
+    color: blueviolet;
+}
+
+.navbar{
+    display: flex;
+    background-color: rgb(161, 160, 160);
+    box-shadow: 5px 5px 10px black;
+    position: fixed;
+    width: 99%;
+    padding-top: 0;
+}
+
+.menu{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    
+}
+
+.menu ul{
+    display: flex;
+   padding-left: 60px;
+   font-size: 25px;
+  font-weight: bold;
+ 
+}
+
+.menu ul li {
+    padding-left: 50px;
+    list-style: none;
+}
+
+.hero{
+    background-image: url(full.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 1000px;
+}
+
+
+
+
+
